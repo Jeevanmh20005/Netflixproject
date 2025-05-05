@@ -5,18 +5,6 @@
 ## Overview
 This project explores and analyzes a Netflix dataset using SQL to uncover meaningful insights about content trends, user preferences, and platform strategies. By leveraging structured query language (SQL), the project demonstrates data cleaning, transformation, and deep-dive analysis techniques typically used in real-world data analytics workflows.
 
-Key objectives of this project include:
-
- -Analyzing the distribution of movies and TV shows across countries and genres
-
--Identifying content trends over time (e.g., most popular release years, genres)
-
--Extracting insights on Netflix's content strategy (e.g., original content growth, regional focus)
-
--Performing temporal analysis (e.g., monthly/annual release patterns)
-
--Creating queries that simulate business intelligence questions
-
 ## Objectives
 
 - Analyze the distribution of content types (movies vs TV shows).
