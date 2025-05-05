@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Data Analysis using SQL
+# Netflix Data Dive — SQL Analytics Project
 
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
