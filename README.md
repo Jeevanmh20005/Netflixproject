@@ -7,15 +7,15 @@ This project explores and analyzes a Netflix dataset using SQL to uncover meanin
 
 Key objectives of this project include:
 
-Analyzing the distribution of movies and TV shows across countries and genres
+ -Analyzing the distribution of movies and TV shows across countries and genres
 
-Identifying content trends over time (e.g., most popular release years, genres)
+-Identifying content trends over time (e.g., most popular release years, genres)
 
-Extracting insights on Netflix's content strategy (e.g., original content growth, regional focus)
+-Extracting insights on Netflix's content strategy (e.g., original content growth, regional focus)
 
-Performing temporal analysis (e.g., monthly/annual release patterns)
+-Performing temporal analysis (e.g., monthly/annual release patterns)
 
-Creating queries that simulate business intelligence questions
+-Creating queries that simulate business intelligence questions
 
 ## Objectives
 
